@@ -9,5 +9,6 @@ func Add(a, b int) int {
 }
 
 func main() {
+	// 1
 	fmt.Println("Я домашка")
 }
